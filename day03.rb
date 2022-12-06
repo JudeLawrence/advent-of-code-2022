@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-file = File.open('day3-input.txt')
+file = File.open('day03-input.txt')
 
 priority = {
   a: 1, b: 2, c: 3, d: 4, e: 5, f: 6, g: 7,

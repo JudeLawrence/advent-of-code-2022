@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-file = File.open('day4-input.txt')
+file = File.open('day04-input.txt')
 
 rows = []
 total = 0

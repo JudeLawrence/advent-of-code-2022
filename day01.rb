@@ -1,6 +1,6 @@
 puts 'hello'
 
-file = File.open('day-1-input.txt')
+file = File.open('day01-input.txt')
 
 # data = []
 elf_sack = []

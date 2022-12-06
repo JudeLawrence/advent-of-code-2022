@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-file = File.open('day-2-input.txt')
+file = File.open('day02-input.txt')
 
 points = {
   rock: 1,
